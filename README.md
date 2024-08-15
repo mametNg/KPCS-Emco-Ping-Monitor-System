@@ -1,6 +1,6 @@
 
 # KPCS - Emco Ping Monitor System
 
-This is Grab Tools for daily automation report and monitoring.
+This is Grab Tools automation for daily report and monitoring.
 
 DEMO : https://emcosoftware.com/ping-monitor
