@@ -1,6 +1,6 @@
 {
 	"title": "KPCS - EMCO PING MONITOR SYSTEM",
 	"description": "Grab Tools automation for daily report and monitoring.",
-	"status" : "inactive",
+	"status" : "active",
 	"version" : "1.0"
 }
